@@ -61,7 +61,7 @@
 <body>
 
 <div class="card" id="proposal">
-  <img src="https://tenor.com/view/bubu-dudu-bubu-dudu-bear-panda-gif-13168878375741792886" alt="Dudu Bubu">
+  <img src="https://tenor.com/view/bubu-dudu-bubu-dudu-bear-panda-gif-13168878375741792886">
   <h1> Do you love me ??? 😸💖 </h1>
   <button id="yes">Yes 💕</button>
   <button id="no">No 🙈</button>
